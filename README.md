@@ -1,6 +1,6 @@
 # The Leap-Year Counter
 
-Paragraph desc.
+A JS/jQuery app for determining if a year input by the user is a leap year or not.
 
 ## Setup and Use
 
