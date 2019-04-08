@@ -6,7 +6,7 @@ A JS/jQuery app for determining if a year input by the user is a leap year or no
 
 In order to view the html via browser or to view the code through an IDE, you will need to:
 
-* Go to the [GitHub repository](https://github.com/LondresRi/countpuzzle) and use the [clone https link](https://github.com/LondresRi/countpuzzle.git) to clone or download the files.
+* Go to the [GitHub repository](https://github.com/samstoia/leapyear) and use the [clone https link](https://github.com/samstoia/leapyear.git) to clone or download the files.
 * Open the index.html file using your local browser to view the webpage, or open the files using an IDE of your choice to view the code.
 
 ### Prerequisites
